@@ -39,7 +39,7 @@ Below are the Block Diagrams and Step Responses of Each Problem.
    Step Response from Simulink
    ![Malata_Problem3_StepResponse_Simulink](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/159398382/d33a2838-65c6-4aed-8c4b-a2845ec0d24d)
 
-5. First Order System:
+4. First Order System:
    G(s) = 1 / s + 1
 
    Block Diagram
@@ -51,12 +51,28 @@ Below are the Block Diagrams and Step Responses of Each Problem.
    Step Response from Simulink
    ![Malata_Problem4_StepResponse_Simulink](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/159398382/02075dd2-a940-41b8-ac63-43c3893461d0)
 
+5. Resonant System
+   G(s) = (8s^6 + 7s^5 + 6s^4 + 5s^3 + 4s^2 + 3s + 2) / ( s^7 + 2s^6 + 3s^5 + 4s^4 + 5s^3 + 6s^2 + 7s + 1)
+
+   Block Diagram:
+   ![Manimtim_Problem5](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/159086380/7ed8f924-84a1-4ad0-b6ef-fdfd7f4cad7a)
+
+   Step Response from MATLAB:
+   ![Manimtim_Step Response Problem 5](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/159086380/7107f8b7-7aa2-44b5-8b19-f56bc3c9dad6)
+
+   Step Response from Simulink:
+   ![Manimtim_Simulink_Step Response Problem 5](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/159086380/16f36c37-4788-4148-bc3a-2965f65623fa)
 
 
+6. Electrical System with Multiple Poles
+   G(s) = (4s^3 + 3s^2 + 2s + 1) / (s^4 + 2s^3 + 3s^2 + 4s + 1)
+ 
+   Block Diagram:
+   ![Manimtim_Problem6](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/159086380/811ba879-68fb-4e3a-8e66-14205b579f25)
 
+   Step Response from MATLAB:
+   ![Manimtim_Step Response Problem 6](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/159086380/491168f3-3bbe-419e-9366-16cf81c55bc1)
 
+   Step Response from Simulink:
+   ![Manimtim_Simulink_Step Response Problem 6](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/159086380/8e39137e-a7b0-4a1f-ab76-dadf96916216)
 
-
-
-
-   
