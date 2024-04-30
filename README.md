@@ -3,7 +3,7 @@ This is the Second Laboratory Activity.
 
 Below are the Block Diagrams and Step Responses of Each Problem.
 
-1. Second Order Underdamped System
+1. Second Order Underdamped System:
    G(s) = 1 / s^2 + 2s + 1
 
    Block Diagram
@@ -15,7 +15,7 @@ Below are the Block Diagrams and Step Responses of Each Problem.
    Step Response from Simulink
    ![Ilagan_Problem1_StepResponse_Simulink](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/159071273/a2df94a2-8c61-44b2-9cf0-d80d8d9b896d)
 
-2. Second Order Overdamped System
+2. Second Order Overdamped System:
    G(s) = 1 / (s+2)(s+3)
  
    Block Diagram
