@@ -89,7 +89,7 @@ Below are the Block Diagrams and Step Responses of Each Problem.
    ![DeClaro_Problem7_StepResponse_Simulink](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/161600364/83a05ad9-11eb-4351-84a8-16a513924f4c)
 
 8. Nonlinear System Approximation
-   G(s) = (10s^4 + 8s^3 + 6s^2 + 4s + 2) / (s^5 +3s^4 + 5s^3 + 7s^2 + 9s + 1)
+   G(s) = (10s^4 + 8s^3 + 6s^2 + 4s + 2) / (s^5 +3s^4 + 5s^3 + 7s^2 + 9s + 1) 
 
    Block Diagram:
    ![DeClaro_Problem8_BlockDiagram](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/161600364/ab0f3721-32ea-485a-a9be-1efc58d5b1e1)
