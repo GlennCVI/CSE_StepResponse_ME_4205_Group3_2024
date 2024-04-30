@@ -76,3 +76,31 @@ Below are the Block Diagrams and Step Responses of Each Problem.
    Step Response from Simulink:
    ![Manimtim_Simulink_Step Response Problem 6](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/159086380/8e39137e-a7b0-4a1f-ab76-dadf96916216)
 
+7. Plant with Time Delay
+   G(s) = (6s^4 + 5s^3 + 4s^2 + 3s + 2) / (s^5 +2s^4 + 3s^3 + 4s^2 + 5s + 1)
+ 
+   Block Diagram:
+   ![DeClaro_Problem7_BlockDiagram](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/161600364/39606ae8-9b88-49eb-a159-b4506be04726)
+
+   Step Response from MATLAB:
+   ![DeClaro_Problem7_StepResponse_Matlab](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/161600364/78337716-f501-4874-9c10-0b40d63c1ad5)
+
+   Step Response from Simulink:
+   ![DeClaro_Problem7_StepResponse_Simulink](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/161600364/83a05ad9-11eb-4351-84a8-16a513924f4c)
+
+8. Nonlinear System Approximation
+   G(s) = (10s^4 + 8s^3 + 6s^2 + 4s + 2) / (s^5 +3s^4 + 5s^3 + 7s^2 + 9s + 1)
+
+   Block Diagram:
+   ![DeClaro_Problem8_BlockDiagram](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/161600364/ab0f3721-32ea-485a-a9be-1efc58d5b1e1)
+ 
+   Step Response from MATLAB:
+   ![DeClaro_Problem8_StepResponse_Matlab](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/161600364/b68af5fc-290f-4f33-a540-d67643f9156c)
+
+   Step Response from Simulink:
+   ![DeClaro_Problem8_StepResponse_Simulink](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/161600364/69b7b499-24d1-438b-9dc6-d577543ae9dc)
+
+
+ 
+  
+
