@@ -15,7 +15,7 @@ G5 = tf(G_num5, G_den5)
 
 %% 6. Electrical Filter with Multiple Poles:
 % 6. Electrical Filter with Multiple Poles:
-% G(s) = (8s^6 + 7s^5 + 6s^4 + 5s^3 + 4s^2 + 3s + 2) / ( s^7 + 2s^6 + 3s^5 + 4s^4 + 5s^3 + 6s^2 + 7s + 1)
+% G(s) = (4s^3 + 3s^2 + 2s + 1) / (s^4 + 2s^3 + 3s^2 + 4s + 1)
 
 
 G_num6 = [4 3 2 1];
