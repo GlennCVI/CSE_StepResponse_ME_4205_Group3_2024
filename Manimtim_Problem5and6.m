@@ -22,6 +22,8 @@ G_num6 = [4 3 2 1];
 G_den6 = [1 2 3 4 1];
 
 G6 = tf(G_num6, G_den6)
+
+
 %% Step Response
 step(G5,0:0.1:20)
 figure
