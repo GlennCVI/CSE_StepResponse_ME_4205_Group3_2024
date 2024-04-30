@@ -25,7 +25,7 @@ Below are the Block Diagrams and Step Responses of Each Problem.
    ![Ilagan_Problem2_StepResponse_Matlab](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/159071273/11d6f162-9e46-4fed-9ccc-4edf6ba664a8)
 
    Step Response from Simulink
-   ![Ilagan_Problem2_StepResponse_Simulink](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/159071273/ee8a6159-2773-468d-8500-e6dbb6aac1a2)
+   ![Ilagan_Problem2_StepResponse_Simulink](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/159071273/3adb30b0-d67a-4278-bce0-667dc593f2a5)
 
 3. Second Order Critically Damped System:
    G(s) = 1 / s^2 + 2s + 1
@@ -99,8 +99,3 @@ Below are the Block Diagrams and Step Responses of Each Problem.
 
    Step Response from Simulink:
    ![DeClaro_Problem8_StepResponse_Simulink](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/161600364/69b7b499-24d1-438b-9dc6-d577543ae9dc)
-
-
- 
-  
-
