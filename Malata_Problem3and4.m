@@ -14,7 +14,7 @@ G_den3 = [1 2 1];
 G3 = tf(G_num3,G_den3)
 
 %% 4. Define Transfer Function
-%  Second Order Critically Damped System 
+%  First Order System 
 % G(s) = 1 / 𝜏s + 1
 % G(s) = 1 / s + 1
 
