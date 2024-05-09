@@ -1,8 +1,8 @@
 # CSE_StepResponse_ME_4205_Group3_2024   
 This is the Second Laboratory Activity.
- 
-Below are the Block Diagrams and Step Responses of Each Problem.
 
+Below are the Block Diagrams and Step Responses of Each Problem.
+ 
 1. Second Order Underdamped System:
    G(s) = 1 / s^2 + 2s + 1
 
