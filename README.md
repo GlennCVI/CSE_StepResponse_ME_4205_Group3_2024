@@ -5,7 +5,7 @@ Below are the Block Diagrams and Step Responses of Each Problem.
  
 1. Second Order Underdamped System:
    G(s) = 1 / s^2 + 2s + 1
-
+ 
    Block Diagram
    ![Ilagan_Problem1_BlockDiagram](https://github.com/GlennCVI/CSE_StepResponse_ME_4205_Group3_2024/assets/159071273/a426f91e-cec2-4a71-9af7-b78043103872)
 
